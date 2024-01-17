@@ -1,0 +1,39 @@
+html {
+    align-items: center !important;
+    text-align: center;
+    background: linear-gradient(to bottom right, #5740d8, #705ff7, rgb(214, 116, 214));
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 695px;
+}
+
+.labelGrande {
+    font-size: 17px;
+    width: 680px;
+}
+
+.labelGrande2 {
+    font-size: 16px;
+    height: 150px;
+    width: 680px;
+}
+
+h2 {
+    text-align: center;
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    border-radius: 5px;
+    background-color: rgb(142, 142, 235);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
